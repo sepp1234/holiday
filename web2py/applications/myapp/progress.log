@@ -1,0 +1,16 @@
+[2014-04-08 13:53:29] START
+[2014-04-08 13:58:54] EDIT myapp/controllers/default.py: -48
+[2014-04-08 14:00:04] EDIT myapp/controllers/default.py: 0
+[2014-04-08 14:00:55] EDIT myapp/controllers/default.py: 0
+[2014-04-08 14:06:41] EDIT myapp/views/default/index.html: -23
+[2014-04-08 14:08:09] EDIT myapp/views/default/index.html: 1
+[2014-04-08 14:09:42] EDIT myapp/views/default/index.html: 0
+[2014-04-08 14:10:06] EDIT myapp/views/default/index.html: 0
+[2014-04-08 14:10:25] EDIT myapp/views/default/index.html: 0
+[2014-04-08 14:10:44] EDIT myapp/views/default/index.html: -1
+[2014-04-08 14:13:06] EDIT myapp/controllers/default.py: -2
+[2014-04-08 14:13:32] EDIT myapp/controllers/default.py: 0
+[2014-04-08 14:14:53] EDIT myapp/controllers/default.py: -3
+[2014-04-08 14:15:55] EDIT myapp/views/default/index.html: 3
+[2014-04-08 14:24:32] EDIT myapp/views/default/index.html: 27
+[2014-04-08 14:24:59] EDIT myapp/views/default/index.html: 0
